@@ -96,7 +96,7 @@ sqlparse==0.3.0
 statsmodels==0.10.1
 tabulate==0.8.3
 tb-nightly==1.14.0a20190301
-tensorflow-gpu==2.0.0a0
+tensorflow-gpu==2.5.1
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
